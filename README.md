@@ -17,11 +17,8 @@ Kickson is a beginner-friendly mobile app built using **Flutter** that demonstra
 
 ## 📸 Screenshots
 
-| Product Detail Screen |
-|------------------------|
-| ![Product Detail](assets/screenshots/details_screen.png) |
+![image](https://github.com/user-attachments/assets/77a64047-6a0e-45b7-b9c1-b37b5442d420)
 
-> *(Replace with your actual screenshot file path or image)*
 
 ---
 
